@@ -13,15 +13,15 @@ public class Test {
 		System.out.println(" Print test case 2");
 
 	}
-	private void newsLetter() {
-		System.out.println(" print newsletter");
+	private void hindi() {
+		System.out.println(" print hindi");
 	}
 	public static void main(String[] args) {
 		Test aa=new Test();
 		aa.testClass();
 		aa.jira();
 		aa.newTest();
-		aa.newsLetter();
+		aa.hindi();
 		
 	}
 
