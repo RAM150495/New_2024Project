@@ -16,5 +16,13 @@ public class Test {
 	private void newsLetter() {
 		System.out.println(" print newsletter");
 	}
+	public static void main(String[] args) {
+		Test aa=new Test();
+		aa.testClass();
+		aa.jira();
+		aa.newTest();
+		aa.newsLetter();
+		
+	}
 
 }
