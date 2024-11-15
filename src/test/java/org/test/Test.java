@@ -5,6 +5,10 @@ public class Test {
 		System.out.println(" Print test case 1");
 
 	}
+	private void jira() {
+		System.out.println(" print java ");
+
+	}
 	private void newTest() {
 		System.out.println(" Print test case 2");
 
