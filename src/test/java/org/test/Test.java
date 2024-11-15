@@ -5,7 +5,7 @@ public class Test {
 		System.out.println(" Print test case 1");
 
 	}
-	private void jira() {
+	private void scrum() {
 		System.out.println(" print java ");
 
 	}
@@ -19,7 +19,7 @@ public class Test {
 	public static void main(String[] args) {
 		Test aa=new Test();
 		aa.testClass();
-		aa.jira();
+		aa.scrum();
 		aa.newTest();
 		aa.hindi();
 		
