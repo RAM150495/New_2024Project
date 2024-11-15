@@ -9,5 +9,8 @@ public class Test {
 		System.out.println(" Print test case 2");
 
 	}
+	private void loginpage() {
+		System.out.println(" print login page");
+	}
 
 }
